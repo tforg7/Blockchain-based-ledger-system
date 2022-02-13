@@ -13,4 +13,4 @@ Finaly to use the code in streamlit, you should do so, complete the following st
 4. Verify the block contents and hashes in the Streamlit drop-down menu.
 5. Test the blockchain validation process by using the web interface.
 
-
+![](image.png)
